@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+html {
+    scroll-behavior: smooth;
+  }
+  
+body {
+    background-image: url(bg.png);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font-family: 'Play', sans-serif;
+    background-color: white;
+    color: #ffffff;
+    
+}
+
+h1 {
+    font-size: 150px;
+    margin-left: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+p {
+    font-size: 60px;
+    margin-left: 60px;
+    margin-top: 0px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 475px;
+    margin-bottom: 0;
+    font-size: 40px;
+}
+
+.abtimg {
+    margin-top: -18px;
+    margin-left: 20px;
+    width: 20%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 50px;
+    float: left;
+    padding: 20px;
+    padding-right: 33px;
+}
+
+p2 {
+    margin-top: 60px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+h3 {
+    color: #0C1D2F;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 0px;
+    margin-top: 100px;
+    padding-left: 80px;
+    margin-bottom: 0;
+}
+
+.bluebg {
+    width: 30%;
+    height: auto;
+    
+}
+
+.abtmetext {
+    color: white;
+    font-size: 15px;
+    text-align: left;
+}
+
+ul {
+    padding-left: 430px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.hbbyimg2 {
+    margin-top: -44px;
+    margin-left: 20px;
+    width: 32.2%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 50px;
+    float: right;
+    padding: 20px;
+}
+
+.Portfolio {
+    font-size: 15px;
+    margin-left: 375px;
+    margin-top: 15px;
+}
+
+H4 {
+    color: #0C1D2F;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 92px;
+    margin-top: 110px;
+    padding-left: 0px;
+    margin-bottom: 0;
+}
